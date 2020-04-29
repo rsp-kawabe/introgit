@@ -1,3 +1,4 @@
 gitテスト
 更新１
 更新２
+git statusを追加
